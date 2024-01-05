@@ -1,7 +1,4 @@
-hi 
-this
-":quit!"
-
-class
-content
-in file3
+public static void m1()
+{
+System.out.println("hi");
+}
